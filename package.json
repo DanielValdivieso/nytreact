@@ -1,0 +1,25 @@
+{
+  "name": "nytreact",
+  "version": "1.0.0",
+  "description": "React-based rendition of the New York Times Article Search application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielValdivieso/nytreact.git"
+  },
+  "author": "Daniel Valdivieso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielValdivieso/nytreact/issues"
+  },
+  "homepage": "https://github.com/DanielValdivieso/nytreact#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.14",
+    "require": "^2.4.20"
+  }
+}
